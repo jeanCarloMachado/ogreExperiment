@@ -1,0 +1,799 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cout",
+				"countTotal"
+			],
+			[
+				"counter",
+				"counterInner"
+			],
+			[
+				"inn",
+				"counterInner"
+			],
+			[
+				"counte",
+				"counterInner"
+			],
+			[
+				"row",
+				"rowPlusPlus"
+			],
+			[
+				"ro",
+				"rowPlusPlus"
+			],
+			[
+				"get",
+				"getWeight"
+			],
+			[
+				"erro",
+				"id_error_type"
+			],
+			[
+				"com",
+				"compiler_version"
+			],
+			[
+				"sys",
+				"system_file"
+			],
+			[
+				"compi",
+				"compilerVersion"
+			],
+			[
+				"id",
+				"id_error_type"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"defa",
+				"defaultController"
+			],
+			[
+				"default",
+				"defaultView"
+			],
+			[
+				"ende",
+				"endereco_site"
+			],
+			[
+				"resu",
+				"resultUpdate"
+			],
+			[
+				"res",
+				"resultUpdate"
+			],
+			[
+				"Sche",
+				"Schedules"
+			],
+			[
+				"ajax_",
+				"ajax_budget"
+			],
+			[
+				"ajax_m",
+				"ajax_maisAgendamentos"
+			],
+			[
+				"pu",
+				"putDigitsInFront"
+			],
+			[
+				"sche",
+				"schedules"
+			],
+			[
+				"histo",
+				"históricos"
+			],
+			[
+				"model",
+				"modelDependence"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"ul",
+				"urlParameters"
+			],
+			[
+				"url",
+				"urlParameters"
+			],
+			[
+				"getUser",
+				"getUserId"
+			],
+			[
+				"mod",
+				"modelBudgets"
+			],
+			[
+				"getBranc",
+				"getBranchId"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"status",
+				"statusesApp"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"strre",
+				"str_repeat"
+			],
+			[
+				"ee",
+				"elementId"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"COUNT",
+				"COUNT_QUERY_PREFIX"
+			],
+			[
+				"tot",
+				"totatBudgets"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"budget",
+				"budgetsArr"
+			],
+			[
+				"budg",
+				"budgetsArr"
+			],
+			[
+				"change",
+				"changeMinValue"
+			],
+			[
+				"cha",
+				"changeMinValue"
+			],
+			[
+				"curr",
+				"currSharedPrice"
+			],
+			[
+				"_QUE",
+				"_queryType"
+			],
+			[
+				"_quer",
+				"_queryType"
+			],
+			[
+				"OGRE",
+				"OGRE_PLATFORM_WIN32"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jean/Dropbox/sublime32/homeConfig/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+			"settings":
+			{
+				"buffer_size": 571,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jean/projects/rpcOgre/Application/HelperOrderResultByWeight.cpp",
+		"/home/jean/projects/rpcOgre/Application/ErrorController.cpp",
+		"/home/jean/projects/rpcOgre/Application/HelperOrderResultByWeight.h",
+		"/home/jean/projects/rpcOgre/Application/ModelProblem.h",
+		"/home/jean/projects/rpcOgre/Application/ErrorController.h",
+		"/home/jean/projects/rpcOgre/System/Router/CMDRouterMgr.cpp",
+		"/home/jean/projects/rpcOgre/Makefile.am",
+		"/home/jean/projects/rpcOgre/System/Db/TableAbstract.cpp",
+		"/home/jean/projects/rpcOgre/Application/ModelProblem.cpp",
+		"/home/jean/projects/rpcOgre/System/Object/Util.cpp",
+		"/home/jean/projects/rpcOgre/System/Object/Util.h",
+		"/home/jean/projects/study/stl/template2.cpp",
+		"/home/jean/projects/rpcOgre/Application/ModelSolutions.h",
+		"/home/jean/projects/rpcOgre/Application/ModelSolutions.cpp",
+		"/home/jean/projects/rpcOgre/System/Router/RouterView.cpp",
+		"/home/jean/projects/rpcOgre/System/Router/RouterController.cpp",
+		"/home/jean/projects/rpcOgre/Application/ControllerSolution.cpp",
+		"/home/jean/projects/rpcOgre/Application/ModelProblems.cpp",
+		"/home/jean/projects/rpcOgre/Application/ModelProblems.h",
+		"/home/jean/projects/rpcOgre/Application/BaseController.cpp",
+		"/home/jean/projects/rpcOgre/Application/ControllerSolution.h",
+		"/home/jean/projects/rpcOgre/System/Db/Database.cpp",
+		"/home/jean/projects/rpcOgre/Application/HelperWeight.cpp",
+		"/home/jean/projects/rpcOgre/Application/HelperWeight.h",
+		"/home/jean/projects/rpcOgre/Application/ControllerSolutions.cpp",
+		"/home/jean/projects/rpcOgre/Application/ControllerSolutions.h",
+		"/home/jean/projects/rpcOgre/System/Db/TableAbstract.h",
+		"/media/data/finishedSystems/timeTracker/code/models/Activity.cpp",
+		"/home/jean/Dropbox/sublime32/homeConfig/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/jean/projects/rpcOgre/System/Db/Database.h",
+		"/home/jean/projects/rpcOgre/System/Object/String.cpp",
+		"/home/jean/projects/rpcOgre/Application/ErrorControllerS.cpp",
+		"/home/jean/projects/rpcOgre/teste.cpp",
+		"/home/jean/projects/rpcOgre/Application/Bootstrap.cpp",
+		"/home/jean/projects/rpcOgre/Application/Bootstrap.h",
+		"/home/jean/projects/rpcOgre/System/DesignPattern/InterfacePolymorphic.cpp",
+		"/home/jean/projects/rpcOgre/System/DesignPattern/InterfaceListener.cpp",
+		"/home/jean/projects/rpcOgre/System/ApplicationInterface.h",
+		"/home/jean/projects/rpcOgre/System/ApplicationMgr.cpp",
+		"/home/jean/projects/rpcOgre/System/CMDApplication.cpp",
+		"/home/jean/projects/rpcOgre/System/ControllerAbstract.cpp",
+		"/home/jean/projects/rpcOgre/System/Language.cpp",
+		"/home/jean/projects/rpcOgre/System/Language.h",
+		"/home/jean/projects/rpcOgre/Application/DefaultController.cpp",
+		"/home/jean/projects/rpcOgre/System/BootstrapAbstract.cpp",
+		"/home/jean/projects/rpcOgre/System/BootstrapAbstract.h",
+		"/home/jean/projects/rpcOgre/System/ApplicationMgr.h",
+		"/home/jean/projects/rpcOgre/main.cpp",
+		"/home/jean/projects/rpcOgre/System/Db/TableAbstracts.cpp",
+		"/home/jean/projects/rpcOgre/System/ApplicationInterface.cpp",
+		"/home/jean/projects/rpcOgre/Application/bA",
+		"/home/jean/projects/rpcOgre/System/Db/TableRowAbstract.cpp",
+		"/home/jean/projects/rpcOgre/System/Db/TableRowAbstract.h",
+		"/home/jean/projects/rpcOgre/System/TableAbstract.h",
+		"/home/jean/projects/rpcOgre/System/ModelAbstract.cpp",
+		"/home/jean/Dropbox/study/C++/sqlite/Database.cpp",
+		"/home/jean/Dropbox/study/C++/sqlite/Database.h",
+		"/home/jean/Dropbox/study/C++/sqlite/main.cpp",
+		"/home/jean/projects/rpcOgre/System/Router/RouterInterface.cpp",
+		"/home/jean/projects/rpcOgre/Application/MessageController.cpp",
+		"/home/jean/projects/rpcOgre/System/Db/AbstractTable.cpp",
+		"/home/jean/projects/rpcOgre/System/Application.cpp",
+		"/home/jean/projects/rpcOgre/stamp-h1",
+		"/home/jean/projects/rpcOgre/Controller/MessageController.cpp",
+		"/home/jean/projects/rpcOgre/Application",
+		"/home/jean/projects/rpcOgre/Controller/DefaultController.cpp",
+		"/home/jean/projects/rpcOgre/Controller/BaseController.cpp",
+		"/home/jean/projects/rpcOgre/Controller/ErrorController.cpp",
+		"/home/jean/projects/rpcOgre/System/AbstractController.cpp",
+		"/home/jean/projects/rpcOgre/Controller/Message.cpp",
+		"/home/jean/projects/rpcOgre/Controller/ErroController.cpp",
+		"/home/jean/projects/study/stl/explode.cpp",
+		"/usr/src/ogre_src_v1-8-1/build/bin/plugins.cfg",
+		"/usr/src/ogre_src_v1-8-1/build/bin/resources.cfg",
+		"/home/jean/projects/study/ogre/basic/tutorial2/resources.cfg",
+		"/home/jean/projects/study/ogre/basic/tutorial2/plugins.cfg",
+		"/home/jean/projects/rpcOgre/config.h",
+		"/home/jean/projects/rpcOgre/CMDRouter.cpp",
+		"/home/jean/projects/rpcOgre/System/Controller.cpp",
+		"/home/jean/projects/rpcOgre/System/Table.cpp",
+		"/home/jean/projects/rpcOgre/System/TableRow.cpp",
+		"/home/jean/projects/rpcOgre/System/Router/Router.cpp",
+		"/home/jean/projects/rpcOgre/System/Router.cpp",
+		"/home/jean/projects/cub/giulian/includes/Model/States.php",
+		"/home/jean/projects/cub/giulian/includes/Controller/orcamento_Controller.php",
+		"/home/jean/projects/cub/giulian/includes/library/1.0/System/Object/Number.php",
+		"/home/jean/projects/cub/giulian/includes/library/1.0/System/Object/Money.php",
+		"/home/jean/projects/cub/giulian/includes/Model/UserApp.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Budget.php",
+		"/home/jean/projects/cub/giulian/includes/Controller/ack/ACKorcamentos_Controller.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Schedules.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Schedule.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Budgets.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Cds.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Cd.php",
+		"/home/jean/projects/cub/giulian/includes/View/ack/budget/index.php",
+		"/home/jean/projects/cub/giulian/includes/View/ack/budget/view.php",
+		"/home/jean/projects/cub/giulianNewAck/json.php",
+		"/home/jean/projects/cub/giulian/js/ack_app/script.giulian_ack_app.js",
+		"/home/jean/projects/cub/giulian/includes/Model/Category.php",
+		"/home/jean/projects/cub/giulian/includes/library/1.0/System/Object/Date/Date.php",
+		"/home/jean/projects/cub/giulian/includes/Model/BudgetSchedule.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Comment.php",
+		"/home/jean/projects/cub/giulian/includes/library/1.0/System/DB/Table.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Branch.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Log.php",
+		"/home/jean/projects/cub/giulian/includes/Model/LogsApp.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Logs.php",
+		"/home/jean/projects/cub/giulian/includes/Model/LogApp.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Comments.php",
+		"/home/jean/projects/cub/giulian/includes/library/0.3/System/Application.php",
+		"/home/jean/projects/cub/giulian/includes/library/1.0/System/Controller/Controller.php",
+		"/home/jean/projects/cub/giulian/index.php",
+		"/home/jean/projects/cub/giulian/includes/bootstrap.php",
+		"/home/jean/projects/cub/giulian/includes/library/1.0/System/FrontController.php",
+		"/home/jean/projects/cub/giulian/includes/library/0.3/System/FrontController.php",
+		"/home/jean/projects/cub/giulian/includes/library/1.0/System/Application.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Item.php",
+		"/home/jean/projects/cub/giulian/includes/Model/Items.php",
+		"/home/jean/projects/cub/giulian/includes/Model/AddressApp.php",
+		"/home/jean/projects/cub/giulian/includes/Controller/Helper/Query/Filters/Search.php",
+		"/home/jean/projects/cub/giulian/includes/Controller/Helper/SessionManagement/Budget.php",
+		"/home/jean/projects/cub/giulian/includes/Model/StatusApp.php",
+		"/home/jean/projects/cub/giulian/includes/Controller/Helper/Query/Prepare/BudgetAck.php",
+		"/home/jean/projects/cub/giulian/includes/Controller/Helper/Query/Filters/Id.php",
+		"/home/jean/projects/cub/giulian/includes/View/ack/budget/layout/_header.php",
+		"/home/jean/projects/cub/giulian/includes/Model/UserAck.php",
+		"/home/jean/projects/cub/giulian/includes/Controller/Helper/Query/Filters/Cd.php"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"compiler",
+			"setId",
+			"ModelProblem set",
+			"str::",
+			"ModelProblem",
+			"row.",
+			"resultQuery->",
+			"resultQuery.",
+			">\n",
+			"ControllerSearch",
+			"ErrorController",
+			"PROBLEMS",
+			"Problems",
+			"command not found",
+			"database",
+			"Database::",
+			"MAX_PARAMS",
+			"__MessageController__",
+			"Controller",
+			"Controller/",
+			"Default",
+			"STRING",
+			"resultParams",
+			"endl",
+			"<<",
+			");",
+			"endl",
+			"new State",
+			"state",
+			"states",
+			"Branch",
+			"getpreco",
+			"getId",
+			"getPreco",
+			"GETDATA",
+			"Branch",
+			"ID:",
+			"voltar",
+			"json.php",
+			"site.url",
+			"json.php",
+			"self::FAKE",
+			"fake",
+			" $this->ajax['id_orcamento']",
+			"ajax_addAgendameto",
+			"agendamentos",
+			"agendametno",
+			"ajax_maisAgendamentos",
+			"`a",
+			"LOgapp",
+			"Item",
+			"function index",
+			"dg",
+			"count",
+			"coutn",
+			"Branch",
+			"historicos",
+			"logs",
+			"çalkdsfajs",
+			"myItems",
+			"hidden",
+			"Branch",
+			"hidden",
+			"comment",
+			"getUser",
+			"this->getUser",
+			"System_Auth",
+			"auth",
+			"ajax_loadBudgets",
+			"load",
+			"myComments",
+			"myItens",
+			"modelBudgets",
+			"myBudgets",
+			"Branch",
+			"getCepAck",
+			"observacoes",
+			"cidade",
+			"aprovado",
+			"getPreco",
+			"								  ->",
+			"GETCD",
+			"id",
+			"foreach",
+			"visualizar",
+			"setBranchId",
+			"filial",
+			"filial_id",
+			"branch",
+			"getCD",
+			"foreach",
+			"setcd",
+			"getcd",
+			"foreach",
+			"			\n",
+			"RS",
+			"ajax_loadBudgets",
+			"data",
+			"ajax_loa",
+			"carregar",
+			"json.php",
+			"count",
+			"getId",
+			"orcamentos",
+			"orcamenos",
+			"setCD",
+			"statusApp",
+			"Userapp",
+			"Object_date",
+			"statusesApp",
+			"getstatus",
+			"getstatusdi",
+			"setPreco",
+			"setPreceo",
+			"json.php",
+			"data",
+			"ORCAMENTOS",
+			"GETPRECO",
+			";\n",
+			"cidade",
+			"state",
+			"states",
+			"result",
+			"metragem",
+			"20",
+			"$obj",
+			"findDepend",
+			"dependent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ModelProblem* set",
+			"*ModelProblem set",
+			"std::",
+			"element->",
+			"result.",
+			"resultQuery->",
+			"ControllerSolution",
+			"ControllerSearch",
+			"Solutions",
+			"Solutjons",
+			"command not exists in this contex",
+			"db",
+			"System::Database::",
+			"__AbstractTable__",
+			"Application/",
+			"Base",
+			"Message",
+			"Util",
+			"result",
+			"new States",
+			"State",
+			"Cd",
+			"$this->ajax['id_orcamento']",
+			"Schedule",
+			"log",
+			"LogApp",
+			"ajax_budget",
+			"userApp",
+			"myItems",
+			"modelItems",
+			"myItens",
+			"Item",
+			"branch",
+			"branchId",
+			"BranchId",
+			"addressApp",
+			"$budget",
+			"new Budgets",
+			"/usr/local/share",
+			"mToggle",
+			"BasicTutorial4",
+			"BasicTutorial2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jean/Dropbox/sublime32/homeConfig/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+					"settings":
+					{
+						"buffer_size": 571,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								571,
+								571
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"indent": 1,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+								"php": "php"
+							},
+							"sublimelinter_fill_outlines": true,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": true,
+							"sublimelinter_syntax_map":
+							{
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"makefile.am",
+				"rpcOgre/Makefile.am"
+			],
+			[
+				"budget.php",
+				"giulian/includes/Model/Budget.php"
+			],
+			[
+				"bran",
+				"giulian/includes/Model/Branch.php"
+			],
+			[
+				"ackajax",
+				"giulian/includes/Controller/ack/ACKajax_Controller.php"
+			],
+			[
+				"budget",
+				"giulian/includes/Model/Budget.php"
+			],
+			[
+				"orcametno",
+				"giulian/includes/Controller/orcamento_Controller.php"
+			],
+			[
+				"orcamento_contr",
+				"giulian/includes/Controller/orcamento_Controller.php"
+			],
+			[
+				"table.php",
+				"includes/library/1.0/System/DB/Table.php"
+			],
+			[
+				"table.ph",
+				"includes/library/1.0/System/DB/Table.php"
+			],
+			[
+				"ackjax",
+				"giulian/includes/Controller/ack/ACKajax_Controller.php"
+			],
+			[
+				"resource",
+				"ogre/common/resources.cfg"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 233.0,
+	"status_bar_visible": true
+}

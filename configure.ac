@@ -1,0 +1,11 @@
+AC_INIT(configure.ac)
+ AM_INIT_AUTOMAKE(SampleApp, 0.1)
+ AM_CONFIG_HEADER(config.h)
+ 
+ AC_LANG_CPLUSPLUS
+ AC_PROG_CXX
+ AM_PROG_LIBTOOL
+ 
+ 
+ AC_CONFIG_FILES(Makefile)
+ AC_OUTPUT
